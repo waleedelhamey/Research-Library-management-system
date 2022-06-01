@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pc/CLionProjects/Research Library management system/Book.h
+bits/stdc++.h
+-
+nodeQueue.h
+C:/Users/Pc/CLionProjects/Research Library management system/nodeQueue.h
+
+C:/Users/Pc/CLionProjects/Research Library management system/LinkedList.h
+bits/stdc++.h
+-
+Book.h
+C:/Users/Pc/CLionProjects/Research Library management system/Book.h
+
+C:/Users/Pc/CLionProjects/Research Library management system/main.cpp
+bits/stdc++.h
+-
+LinkedList.h
+C:/Users/Pc/CLionProjects/Research Library management system/LinkedList.h
+Book.h
+C:/Users/Pc/CLionProjects/Research Library management system/Book.h
+nodeQueue.h
+C:/Users/Pc/CLionProjects/Research Library management system/nodeQueue.h
+
+C:/Users/Pc/CLionProjects/Research Library management system/nodeQueue.h
+bits/stdc++.h
+-
+Book.h
+C:/Users/Pc/CLionProjects/Research Library management system/Book.h
+

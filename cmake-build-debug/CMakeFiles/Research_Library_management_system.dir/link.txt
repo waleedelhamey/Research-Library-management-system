@@ -1,0 +1,3 @@
+E:\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Research_Library_management_system.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Research_Library_management_system.dir/objects.a @CMakeFiles\Research_Library_management_system.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Research_Library_management_system.dir/objects.a -Wl,--no-whole-archive  -o Research_Library_management_system.exe -Wl,--out-implib,libResearch_Library_management_system.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Research_Library_management_system.dir\linklibs.rsp
